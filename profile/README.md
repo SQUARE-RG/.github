@@ -26,6 +26,7 @@
 - **[ICC-Resolution-Evaluation](https://github.com/SQUARE-RG/ICC-Resolution-Evaluation)**: A Comprehensive Evaluation of Android ICC Resolution Techniques
 - **[InsDal](https://github.com/SQUARE-RG/InsDal)**: A Safe and Extensible Instrumentation Tool on Dalvik Byte-Code for Android Applications
 - **[Mist](https://github.com/SQUARE-RG/Mist)**: Characterizing and identifying misexposed activities in Android applications
+- **[FlowSlicer](https://github.com/SQUARE-RG/FlowSlicer)**: An Efficient Android App Debloating Approach Based on Multi-layer Dependence Graph
 
 ### Java
 - **[JavaExP](https://github.com/SQUARE-RG/JavaExP)**: Java Exception-aware API Lifecycle Model analyzer
