@@ -20,6 +20,7 @@
 
 ### Android: 
 - **[FlowSlicer](https://github.com/SQUARE-RG/FlowSlicer)**: An Efficient Android App Debloating Approach based on Multi-layer Dependence Graph (ICSME'25)
+- **[HACMony](https://github.com/SQUARE-RG/hacmony)**: An LLM-based Harmony-OS App Testing Tool that supports Hopping-related Audio-stream Conflict (HAC) Issue Detection.
 - **[CrashTracker](https://github.com/SQUARE-RG/CrashTracker)**: Better Debugging: Combining Static Analysis and LLMs for Explainable Crashing Fault Localization (ICSE'23)
 - **[ExaDroid](https://github.com/SQUARE-RG/ExaDroid)**: Variable-Strength Combinatorial Testing of Exported Activities Based on Misexposure Prediction (JSS'23)
 - **[ICTDroid](https://github.com/SQUARE-RG/ICTDroid)**: Parameter-Aware Combinatorial Testing for Components of Android Apps (ASE'23)
