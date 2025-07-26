@@ -18,6 +18,17 @@
 - **[AutoChecker](https://github.com/SQUARE-RG/AutoChecker)**: An LLM-based Approach to Automatically Generate Static Code Checkers with Given Programming Rules (ICSE'26)
 - **[SynTeR](https://github.com/SQUARE-RG/SynTeR)**: An LLM-based Approach to Repair Obsolete Test Cases caused by Syntactic BCs (ISSRE'25)
 
+### C/C++: 
+- **[Scasa](https://github.com/SQUARE-RG/Scasa)**: A Static Checker for Detecting Element Accessing Bugs in C++ Sequence Containers (ASE'24)
+- **[panda](https://github.com/SQUARE-RG/panda)**: A Parallel Tooling Driver based on Compilation Database (ISSTA'24)
+- **[PyRefcon](https://github.com/SQUARE-RG/PyRefcon)**: A Tool for Python Native Code Reference Counting Bug Detection  (ASE'23)
+- **[csa-eh](https://github.com/SQUARE-RG/csa-eh)**: A Static Checker for Finding Exception Handling Bugs in C++ Programs (ICSE'23)
+- **[SPrinter](https://github.com/SQUARE-RG/SPrinter)**: A Static Checker for Finding Smart Pointer Errors in C++ Programs (ASE'19)
+
+### Java
+- **[JStringChecker](https://github.com/SQUARE-RG/JStringChecker)**: Java Method to SMT-LIB Converter with its Dataset (SANER'25)
+- **[JavaExP](https://github.com/SQUARE-RG/JavaExP)**: Java Exception-aware API Lifecycle Model analyzer (Chinese Journal of Computers'24)
+
 ### Android: 
 - **[FlowSlicer](https://github.com/SQUARE-RG/FlowSlicer)**: An Efficient Android App Debloating Approach based on Multi-layer Dependence Graph (ICSME'25)
 - **[HACMony](https://github.com/SQUARE-RG/hacmony)**: An LLM-based Harmony-OS App Testing Tool that supports Hopping-related Audio-stream Conflict (HAC) Issue Detection.
@@ -32,14 +43,4 @@
 
 
 
-### Java
-- **[JStringChecker](https://github.com/SQUARE-RG/JStringChecker)**: Java Method to SMT-LIB Converter with its Dataset (SANER'25)
-- **[JavaExP](https://github.com/SQUARE-RG/JavaExP)**: Java Exception-aware API Lifecycle Model analyzer (Chinese Journal of Computers'24)
-  
-### C/C++: 
-- **[Scasa](https://github.com/SQUARE-RG/Scasa)**: A Static Checker for Detecting Element Accessing Bugs in C++ Sequence Containers (ASE'24)
-- **[panda](https://github.com/SQUARE-RG/panda)**: A Parallel Tooling Driver based on Compilation Database (ISSTA'24)
-- **[PyRefcon](https://github.com/SQUARE-RG/PyRefcon)**: A Tool for Python Native Code Reference Counting Bug Detection  (ASE'23)
-- **[csa-eh](https://github.com/SQUARE-RG/csa-eh)**: A Static Checker for Finding Exception Handling Bugs in C++ Programs (ICSE'23)
-- **[SPrinter](https://github.com/SQUARE-RG/SPrinter)**: A Static Checker for Finding Smart Pointer Errors in C++ Programs (ASE'19)
 
