@@ -19,6 +19,7 @@
 - **[SynTeR](https://github.com/SQUARE-RG/SynTeR)**: An LLM-based Approach to Repair Obsolete Test Cases caused by Syntactic BCs (ISSRE'25)
 
 ### C/C++: 
+- **[IceBear](https://github.com/SQUARE-RG/IceBear)**: A Fine-Grained Incremental Scheduler for C/C++ Static Analyzers (FSE'25)
 - **[Scasa](https://github.com/SQUARE-RG/Scasa)**: A Static Checker for Detecting Element Accessing Bugs in C++ Sequence Containers (ASE'24)
 - **[panda](https://github.com/SQUARE-RG/panda)**: A Parallel Tooling Driver based on Compilation Database (ISSTA'24)
 - **[PyRefcon](https://github.com/SQUARE-RG/PyRefcon)**: A Tool for Python Native Code Reference Counting Bug Detection  (ASE'23)
