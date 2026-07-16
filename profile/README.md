@@ -40,6 +40,9 @@
 - **[Fax](https://github.com/SQUARE-RG/Fax)**: An automated Android GUI Explorer tool (ICSE'20)
 - **[Mist](https://github.com/SQUARE-RG/Mist)**: Characterizing and Identifying Misexposed Activities in Android Applications (ASE'18)
 - **[InsDal](https://github.com/SQUARE-RG/InsDal)**: A Safe and Extensible Instrumentation Tool on Dalvik Byte-Code for Android Applications (SANER'17)
+- **[FuncDroid](https://github.com/SQUARE-RG/FuncDroid)**: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing (ISSTA'26) 
+
+
 
 
 
